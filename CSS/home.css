@@ -1,0 +1,19 @@
+#home-background {
+	background-color: #323dbc;
+	height: 100vh;
+	width: 100vw;
+	animation-name: fadeIn;
+	animation-duration: 6s;
+}
+
+@keyframes fadeIn {
+	0% { opacity: 0 }
+
+	100% { opacity: 1 }
+}
+
+#home-logo {
+	height: 30%;
+	width: 70%;
+	margin-left: 16%;
+}
