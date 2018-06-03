@@ -36,6 +36,22 @@ img {
 	height: 400px;
 }
 
+#projects {
+	margin-bottom: 5px;
+	text-decoration-line: underline;
+}
+
+#allprojects {
+	position: relative;
+	bottom: 105px;
+	/*text-align: center;*/
+}
+
+#GAname {
+	position: relative;
+	top: 15px;
+}
+
 #grantanswers {
 	display: inline-block;
 	margin-left: 7%;
@@ -43,7 +59,11 @@ img {
 	margin-bottom: 1%;
 }
 
-#grid-2 {
+#Originalname {
+	text-decoration-line: underline;
+}
+
+#original {
 	display: inline-block;
 	margin-left: 2%;
 	text-align: center;
@@ -52,7 +72,24 @@ img {
 	margin-bottom: 1%;
 }
 
-#grid-3 {
+#Othername {
+	text-decoration-line: underline;
+}
+
+#other {
+	display: inline-block;
+	margin-left: 2%;
+	text-align: center;
+	margin-left: 5%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+#Contentname {
+	text-decoration-line: underline;
+}
+
+#content{
 	display: inline-block;
 	margin-left: 2%;
 	text-align: center;
