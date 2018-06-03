@@ -16,10 +16,19 @@
 	height: 30%;
 	width: 70%;
 	margin-left: 16%;
+	position: relative;
+	bottom: 45px;
 }
 
-nav {
-	background-color: #323dbc;
+#navbar {
+	background-color: #3F447F;
+}
+
+#linkedin {
+	height: 50px;
+	width: 50px;
+	position: relative;
+	top: 7px;
 }
 
 img {
